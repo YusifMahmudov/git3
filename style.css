@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    border: soloid 10px;
+    background-color: blue;
+    border-radius: 40px;
+}
+button:hover{
+    background-image: linear-gradient( blue,rgb(111, 11, 250));
+}
+body{
+padding: 10px;
+}
